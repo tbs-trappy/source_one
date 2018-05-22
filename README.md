@@ -1,5 +1,5 @@
 # source_one
-Open Source FPV Drone Racing Frame project initiated by Team BlackSheep
+Open Source FPV Drone Frame project initiated by Team BlackSheep
 
 # About SOURCE ONE
 ## The idea
