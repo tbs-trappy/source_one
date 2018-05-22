@@ -5,6 +5,15 @@ Open Source FPV Drone Frame project initiated by Team BlackSheep
 ## The idea
 The SOURCE ONE project is a first of its kind collaborative FPV frame project initiated by Team BlackSheep. The frame is donated to the community to empower creators and makers, and integrate best practices and current trends faster into a continuously produced “product”. In return, it allows the local distribution network to have cheap and direct access to a good frame in order to allow them compete in an increasingly predatory marketplace.
 The hope is for this frame to enable broad access to FPV thanks to a low price point, great documentation and wide availability of compatible parts and accessories, without violating other people’s intellectual property.
+## Frame specifications
+* Wheelbase: 220mm 5", 300mm 7"
+* Top Plate: 2mm
+* Bottom Plate 3mm
+* Arm thickness: 4mm 5", 6mm 7"
+* Stack Mounting: 30.5 × 30.5mm
+* Weight: 118g
+
+
 ## Project links
 * Project discussion: https://discordapp.com/invite/ZJGkHwF 
 * Project files: https://github.com/tbs-trappy/source_one 
