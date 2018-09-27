@@ -7,7 +7,7 @@ Open Source FPV Drone Frame project initiated by Team BlackSheep
 ## The idea
 The SOURCE ONE is the first of its kind, open source collaborative frame project. It empowers the community to integrate best practices and current trends into a continuously manufactured FPV frame. The price, documentation and compatibility puts it on track to be the most accessible frame for newcomers and professionals alike.
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/sourceone_wallpaper.jpg" width="600">
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/sourceone_wallpaper_v0.2.jpg" width="600">
 
 
 ## Frame specifications
