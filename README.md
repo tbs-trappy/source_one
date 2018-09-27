@@ -31,6 +31,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * [www.n-factory.de](https://n-factory.de/TBS-SOURCE-ONE-5)
 * [www.redbee.de](https://redbee.de/TBS-Source-ONE-5-VXXX)
 * [www.defiancerc.com](https://www.defiancerc.com/products/tbs-source-one-5-v0-11)
+* [www.ka-nickel.eu](https://ka-nickel.eu/produkt/tbs-source-one/)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 ## Project links
