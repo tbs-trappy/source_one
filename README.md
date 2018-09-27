@@ -32,6 +32,8 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * [www.redbee.de](https://redbee.de/TBS-Source-ONE-5-VXXX)
 * [www.defiancerc.com](https://www.defiancerc.com/products/tbs-source-one-5-v0-11)
 * [www.ka-nickel.eu](https://ka-nickel.eu/produkt/tbs-source-one/)
+* [www.phaserfpv.com.au](https://www.phaserfpv.com.au/products/tbssourceone5framekitv011)
+
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 ## Project links
