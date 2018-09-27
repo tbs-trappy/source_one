@@ -69,10 +69,6 @@ Accessories from the SOURCE ONE project also need to be named with the entire pr
 ## SourceOne v0.1
 * initial release from TBS
 
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350">
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350">
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350">
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350">
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
 
 
