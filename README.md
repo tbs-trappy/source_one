@@ -7,17 +7,22 @@ Open Source FPV Drone Frame project initiated by Team BlackSheep
 ## The idea
 The SOURCE ONE is the first of its kind, open source collaborative frame project. It empowers the community to integrate best practices and current trends into a continuously manufactured FPV frame. The price, documentation and compatibility puts it on track to be the most accessible frame for newcomers and professionals alike.
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/sourceone_wallpaper_v0.2.jpg" width="600">
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="600">
 
 
 ## Frame specifications
-* Wheelbase: 220mm 5", 300mm 7"
+* Wheelbase 5": 226mm
+* Wheelbase 6": 263mm
+* Wheelbase 7": 300mm
 * Top Plate: 2mm
 * Bottom Plate 3mm
-* Arm thickness: 4mm 5", 6mm 7"
-* Stack Mounting: 30.5 × 30.5mm
-* Weight: 118g
+* Arm thickness 5": 4mm
+* Arm thickness 6": 4mm
+* Arm thickness 7": 6mm
+* Stack Mounting: 30.5 × 30.5mm & 20 x 20
+* Weight: ??
 
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="600">
 
 ## Project links
 * Project discussion: https://discordapp.com/invite/ZJGkHwF 
@@ -36,5 +41,30 @@ SOURCE ONE is the name of the frame. If you are thinking about manufacturing it,
 If you have forked the project, you need to give it another name in order to avoid confusion between SOURCE ONE and your project.
 Accessories from the SOURCE ONE project also need to be named with the entire prefix, e.g. “TBS SOURCE ONE FPV Camera Adapter”. Unless the file is not compatible with certain versions of the frame, the compatible version number or version range also needs to be included in the name, e.g. “TBS SOURCE ONE FPV Camera Adapter V0.1 - V2”
 
-## Photos v0.1
+# Changelog
+
+## SourceOne v0.2
+* top plate: new design pattern
+* top plate: wider battery strap slots
+* top plate: removed indentation near the second spacer row
+* top plate: ziptie holes for RX Antennas
+* center plate: ziptie holes for securing battery cable
+* cam plate: new design
+* added slots for MicroCam metal brackets
+* bottom plate: micro cam bracket mounting slots
+* bottom plate: 20x20 VTX stack holes
+* 20x20 FC support
+* arms: better motor protection
+* arms: added 6 inch arms
+* bottom battery mount slots for 20mm straps
+* Impulse RC Wolf PDB support
+* added silicone/foam battery pads (top & bottom)
+
+## SourceOne v0.11
+* added press nuts
+
+## SourceOne v0.1
+* initial release
 <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
+
+
