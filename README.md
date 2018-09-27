@@ -53,6 +53,9 @@ Accessories from the SOURCE ONE project also need to be named with the entire pr
 # Changelog
 
 ## SourceOne v0.2
+
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_1.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_2.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_3.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_4.jpg" width="350"> 
+
 * top plate: new design pattern
 * top plate: wider battery strap slots
 * top plate: removed indentation near the second spacer row
@@ -76,8 +79,11 @@ Accessories from the SOURCE ONE project also need to be named with the entire pr
 * define responsible people for maintaining manual, github website, graphics
 
 ## SourceOne v0.1
-* initial release from TBS
 
 <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
+
+* initial release from TBS
+
+
 
 
