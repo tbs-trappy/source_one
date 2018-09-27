@@ -1,13 +1,13 @@
 # source_one
 Open Source FPV Drone Frame project initiated by Team BlackSheep
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/sourceone_v0.1.jpg" width="600">
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="600">
 
 # About SOURCE ONE
 ## The idea
 The SOURCE ONE is the first of its kind, open source collaborative frame project. It empowers the community to integrate best practices and current trends into a continuously manufactured FPV frame. The price, documentation and compatibility puts it on track to be the most accessible frame for newcomers and professionals alike.
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="600">
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/sourceone_wallpaper_v0.2.jpg" width="600">
 
 
 ## Frame specifications
@@ -62,9 +62,17 @@ Accessories from the SOURCE ONE project also need to be named with the entire pr
 
 ## SourceOne v0.11
 * added press nuts
+* define project leads and github commit rules
+* define folder structure for acessories, variants, etc.
+* define responsible people for maintaining manual, github website, graphics
 
 ## SourceOne v0.1
-* initial release
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
+* initial release from TBS
+
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350">
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350">
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350">
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350">
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
 
 
