@@ -24,6 +24,15 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="600">
 
+## Where to buy
+
+* [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
+* [www.racequadgear.de](https://www.racequadgear.de/TBS-SOURCE-ONE-5)
+* [www.n-factory.de](https://n-factory.de/TBS-SOURCE-ONE-5)
+* [www.redbee.de](https://redbee.de/TBS-Source-ONE-5-VXXX)
+* [www.defiancerc.com](https://www.defiancerc.com/products/tbs-source-one-5-v0-11)
+* open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
+
 ## Project links
 * Project discussion: https://discordapp.com/invite/ZJGkHwF 
 * Project files: https://github.com/tbs-trappy/source_one 
