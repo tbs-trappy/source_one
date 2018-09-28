@@ -74,6 +74,9 @@ Accessories from the SOURCE ONE project also need to be named with the entire pr
 * Impulse RC Wolf PDB support
 * added silicone/foam battery pads (top & bottom)
 
+### compatibility
+We changed the camera plate. Therefore topplate and bottomplate are not compatible with v0.11. Amrs and centerplate is compatible with v0.11
+
 ## SourceOne v0.11
 * added press nuts
 * define project leads and github commit rules
