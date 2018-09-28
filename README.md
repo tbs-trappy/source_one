@@ -20,7 +20,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * Arm thickness 6": 4mm
 * Arm thickness 7": 6mm
 * Stack Mounting: 30.5 × 30.5mm & 20 x 20
-* Weight: ??
+* Weight 5": 115g
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="600">
 
