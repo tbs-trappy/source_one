@@ -35,6 +35,12 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * [www.phaserfpv.com.au](https://www.phaserfpv.com.au/products/tbssourceone5framekitv011)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
+## Where to buy 6 inch arms
+
+* [www.carbon-posten.de](https://www.carbon-posten.de/epages/62822482.sf/sec0a7379183d/?ObjectPath=/Shops/62822482/Products/CP-TBS-SO-Arm6) 4mm and 5mm carbon
+
+
+
 ## Project links
 * Project discussion: https://discordapp.com/invite/ZJGkHwF 
 * Project files: https://github.com/tbs-trappy/source_one 
