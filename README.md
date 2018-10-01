@@ -1,14 +1,12 @@
 # source_one
 Open Source FPV Drone Frame project initiated by Team BlackSheep
-
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="800">
+[<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">](https://github.com/tbs-trappy/source_one/blob/master/photos/wallpaper/source_one.png)
 
 # About SOURCE ONE
 ## The idea
 The SOURCE ONE is the first of its kind, open source collaborative frame project. It empowers the community to integrate best practices and current trends into a continuously manufactured FPV frame. The price, documentation and compatibility puts it on track to be the most accessible frame for newcomers and professionals alike.
 
-[<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">](https://github.com/tbs-trappy/source_one/blob/master/photos/wallpaper/source_one.png)
-
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="800">
 
 ## Frame specifications
 * Wheelbase 5": 226mm
@@ -22,7 +20,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * Stack Mounting: 30.5 × 30.5mm & 20 x 20
 * Weight 5": 115g
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="600">
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="800">
 
 ## Where to buy
 
