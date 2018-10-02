@@ -14,7 +14,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * Wheelbase 7": 300mm
 * Top Plate: 2mm
 * Bottom Plate 3mm
-* Standoff: 30mm
+* Standoff height: 30mm
 * Arm thickness 5": 4mm
 * Arm thickness 6": 4mm
 * Arm thickness 7": 6mm
@@ -24,8 +24,9 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="800">
 
 ## Hardware
-* 24x M3x10
-*  4x M3x14
+* 24x M3x10 allen screw
+*  4x M3x14 allen screw
+*  8X OD 5mm M3 30mm standoff
 *  8x M3 press insert nut
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_Press_insert_Nut.PNG" width="800">
