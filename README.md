@@ -1,6 +1,6 @@
 # source_one
 Open Source FPV Drone Frame project initiated by Team BlackSheep
-[<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">](https://github.com/tbs-trappy/source_one/blob/master/photos/wallpaper/source_one.png)
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">
 
 # About SOURCE ONE
 ## The idea
