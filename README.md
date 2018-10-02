@@ -14,6 +14,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * Wheelbase 7": 300mm
 * Top Plate: 2mm
 * Bottom Plate 3mm
+* Standoff: 30mm
 * Arm thickness 5": 4mm
 * Arm thickness 6": 4mm
 * Arm thickness 7": 6mm
