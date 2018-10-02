@@ -21,6 +21,12 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * Stack Mounting: 30.5 × 30.5mm & 20 x 20
 * Weight 5": 149.1g
 
+## Hardware
+* 24x M3x10
+* 4x M3x14
+* 8x M3 press insert nut
+
+
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="800">
 
 ## Where to buy
