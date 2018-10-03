@@ -29,7 +29,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 *  8X OD 5mm M3 30mm standoff
 *  8x M3 press insert nut
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_Press_insert_Nut.PNG" width="800">
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_press_insert_nut.png" width="800">
 
 ## Where to buy
 
