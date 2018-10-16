@@ -12,13 +12,13 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * Wheelbase 5": 226mm
 * Wheelbase 6": 263mm
 * Wheelbase 7": 300mm
-* Top Plate: 2mm
-* Bottom Plate 3mm
+* Top plate: 2mm
+* Bottom plate 3mm
 * Standoff height: 30mm
 * Arm thickness 5": 4mm
 * Arm thickness 6": 4mm
 * Arm thickness 7": 6mm
-* Stack Mounting: 30.5 × 30.5mm & 20 x 20
+* Stack mounting: 30.5 × 30.5mm & 20 x 20
 * Weight 5": 149.1g
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="800">
