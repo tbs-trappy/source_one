@@ -55,6 +55,7 @@ Please use the tag "sourceone" when uploading files to thingiverse.com
 ## Where to buy 3D printed parts
 Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
 * [3dmatisse USA](http://bit.ly/3dmatisse_USA)
+* [bmc3d.co](https://bmc3d.co/collections/all/source-one)
 
 
 ## Changelog
