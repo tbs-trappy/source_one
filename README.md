@@ -39,7 +39,6 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 Please use the tag "sourceone" when uploading files to thingiverse.com
 
 ## Where to buy
-
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
 * [www.racequadgear.de](https://www.racequadgear.de/TBS-SOURCE-ONE-5)
 * [www.n-factory.de](https://n-factory.de/TBS-SOURCE-ONE-5)
@@ -50,11 +49,10 @@ Please use the tag "sourceone" when uploading files to thingiverse.com
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 ## Where to buy 6 inch arms
-
 * [www.carbon-posten.de](https://www.carbon-posten.de/epages/62822482.sf/sec0a7379183d/?ObjectPath=/Shops/62822482/Products/CP-TBS-SO-Arm6) 4mm and 5mm carbon
 
 
-## Where to buy 3D printed Parts
+## Where to buy 3D printed parts
 Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
 * [3dmatisse USA](http://bit.ly/3dmatisse_USA)
 
