@@ -31,6 +31,13 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_press_insert_nut.png" width="800">
 
+## Project links
+* Project discussion: https://discordapp.com/invite/ZJGkHwF 
+* Project files: https://github.com/tbs-trappy/source_one 
+* 3D-printed accessories: https://www.thingiverse.com/tag:sourceone
+
+Please use the tag "sourceone" when uploading files to thingiverse.com
+
 ## Where to buy
 
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
@@ -47,13 +54,10 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * [www.carbon-posten.de](https://www.carbon-posten.de/epages/62822482.sf/sec0a7379183d/?ObjectPath=/Shops/62822482/Products/CP-TBS-SO-Arm6) 4mm and 5mm carbon
 
 
+## Where to buy 3D printed Parts
+Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
+* [3dmatisse USA](http://bit.ly/3dmatisse_USA)
 
-## Project links
-* Project discussion: https://discordapp.com/invite/ZJGkHwF 
-* Project files: https://github.com/tbs-trappy/source_one 
-* 3D-printed accessories: https://www.thingiverse.com/tag:sourceone
-
-Please use the tag "sourceone" when uploading files to thingiverse.com
 
 ## Changelog
 
