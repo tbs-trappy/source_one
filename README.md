@@ -47,6 +47,9 @@ Please use the tag "sourceone" when uploading files to thingiverse.com
 * [www.ka-nickel.eu](https://ka-nickel.eu/produkt/tbs-source-one/)
 * [www.phaserfpv.com.au](https://www.phaserfpv.com.au/products/tbssourceone5framekitv011)
 * [www.multirotorshop.com](https://www.multirotorshop.com.au/product/tbs-source-one-v0-2-5inch/)
+* [www.shop.brickracing.com](https://shop.brickracing.com/TBS-Source-One-V0.2-drone-frame)
+* [www.skanehobby.se](https://www.skanehobby.se/shop/tbs-source-one-v0-2/)
+* [www.juampifpv.com](https://www.juampifpv.com/index.php?pagina=detalle&idp=403)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 ## Where to buy 6 inch arms
