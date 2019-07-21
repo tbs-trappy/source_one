@@ -64,6 +64,18 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 
 ## Changelog
 
+### SourceOne v3
+* new TopPlate, with longer Battery-strap slots - backwards compatible to V0.2
+* new BatteryPad, cause of the repositioning and longer Battery-strap slots - NOT backwards compatible to V0.2
+* new Cam-plate design, with Angel holes and a forward position, the Plate also contacts the 4 front Spacers for more rigidy in the front part - backwards compatible to V0.2
+* Main-plate is now on top for more building room, a 20x20 (M2) mounting pattern added in the front, Antenna Zip-tie holes added - NOT backwards compatible to V.22
+* 5inch Arms got a reinforcement on the outer mounting hole (backwards compatible to V.01 and V0.2)
+* new Bottom-plate - NOT backwards compatible to V0.2
+* changed our versioning because its sounds better (we went from v0.2 straight to v3) 
+
+that's all changes on the Carbon and the BatteryPad. For the guys that want to mount the Battery on the bottom, i made a small 3D-batterystrap mount, that also gives the battery a flat mounting option, cause of the swap of the Center and Bottom plate. All other 3D-Printed parts will fit the Version 0.3.
+
+
 ### SourceOne v0.2
 
 <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_1.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_2.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_3.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_4.jpg" width="350"> 
