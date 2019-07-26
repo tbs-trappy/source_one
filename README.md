@@ -61,6 +61,17 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 * [3dmatisse USA](http://bit.ly/3dmatisse_USA)
 * [bmc3d.co](https://bmc3d.co/collections/all/source-one)
 
+## Compatibility
+
+| Part          |           v0.1|          v0.11|           v0.2|                     v3|
+| ------------- | ------------- | ------------- | ------------- | -------------         |
+| topplate      |               |               |fits all lower versions|fits only v3   |
+| bottompate    |               |               |fits all lower versions|fits only v3   |
+| arms          |               |               |                       |fits all lower versions               |
+| centerplate   |fits only v0.1 |               |fits  v0.11 and v0.2   |fits only v3   |
+| camplates     |               |               |fits all lower versions|fits only v3   |
+| battery pad   |               |               |fits all lower versions|fits only v3   |
+
 
 ## Changelog
 
