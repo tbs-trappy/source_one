@@ -65,12 +65,12 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 
 | Part          |           v0.1|          v0.11|           v0.2|                     v3|
 | ------------- | ------------- | ------------- | ------------- | -------------         |
-| topplate      |               |               |fits all lower versions|fits only v3   |
-| bottompate    |               |               |fits all lower versions|fits only v3   |
-| arms          |               |               |                       |fits all lower versions               |
-| centerplate   |fits only v0.1 |               |fits  v0.11 and v0.2   |fits only v3   |
-| camplates     |               |               |fits all lower versions|fits only v3   |
-| battery pad   |               |               |fits all lower versions|fits only v3   |
+| topplate      |fits only v0.1   |               |                       |fits all lower versions|
+| bottompate    |fits only v0.1   |               |fits all lower versions|fits only v3   |
+| arms          |                 |               |                       |fits all lower versions               |
+| centerplate   |fits only v0.1   |               |fits  v0.11 and v0.2   |fits only v3   |
+| camplates     |fits only v0.1   |               |                       |fits all lower versions|
+| battery pad   |no pad available |               |fits all lower versions|fits only v3   |
 
 
 ## Changelog
