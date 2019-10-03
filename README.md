@@ -52,6 +52,7 @@ Please use the tag "sourceone" when uploading files to thingiverse.com
 * [www.juampifpv.com](https://www.juampifpv.com/index.php?pagina=detalle&idp=403)
 * [www.killadrones.co.nz](https://www.killadrones.co.nz/store/TBS-Source-One-5-Inch-Frame-p137993332)
 * [www.quadjunkie.co.nz](https://quadjunkie.co.nz/product-category/racing-freestyle-frames/tbs-source-one/)
+* [www.drone-fpv-racer.com](https://www.drone-fpv-racer.com/en/dfr-source-one-5-frame-v3-3579.html)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
 
 ## Where to buy 6 inch arms
