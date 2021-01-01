@@ -82,7 +82,7 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 * new TopPlate, with longer Battery-strap slots - backwards compatible to V0.2
 * new BatteryPad, cause of the repositioning and longer Battery-strap slots - NOT backwards compatible to V0.2
 * new Cam-plate design, with Angel holes and a forward position, the Plate also contacts the 4 front Spacers for more rigidy in the front part - backwards compatible to V0.2
-* Main-plate is now on top for more building room, a 20x20 (M2) mounting pattern added in the front, Antenna Zip-tie holes added - NOT backwards compatible to V.22
+* Main-plate is now on top for more building room, a 20x20 (M2) mounting pattern added in the front, Antenna Zip-tie holes added - NOT backwards compatible to V0.2
 * 5inch Arms got a reinforcement on the outer mounting hole (backwards compatible to V.01 and V0.2)
 * new Bottom-plate - NOT backwards compatible to V0.2
 * changed our versioning because its sounds better (we went from v0.2 straight to v3) 
