@@ -66,16 +66,24 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 
 | Part          |           v0.1|          v0.11|           v0.2|                     v3|                     v4|
 | ------------- | ------------- | ------------- | ------------- | -------------         | -------------         |
-| topplate      |fits only v0.1   |               |                       |fits all lower versions|             |
-| bottompate    |fits only v0.1   |               |fits all lower versions|fits only v3   |                     |     
-| arms          |                 |               |                       |fits all lower versions               |                |          
-| centerplate   |fits only v0.1   |               |fits  v0.11 and v0.2   |fits only v3   |                          |
-| camplates     |fits only v0.1   |               |                       |fits all lower versions|                  |        
-| battery pad   |no pad available |               |fits all lower versions|fits only v3   |                    |      
+| topplate      |fits only v0.1   |               |                       |fits all lower versions|fits only v4   |      
+| bottompate    |fits only v0.1   |               |fits all lower versions|fits only v3   |fits only v4   |      
+| arms          |                 |               |                       |fits all lower versions               |fits only v4   |      
+| centerplate   |fits only v0.1   |               |fits  v0.11 and v0.2   |fits only v3   |fits only v4   |      
+| camplates     |fits only v0.1   |               |                       |fits all lower versions|fits only v4   |      
+| battery pad   |no pad available |               |fits all lower versions|fits only v3   |fits only v4   |      
 
 
 ## Changelog
 ### SourceOne v4
+* redesign of every part
+* now fits DJI Airunit
+* 
+
+
+<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_1.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_2.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_3.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_4.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_5.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_6.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_7.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_8.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_9.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_10.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_11.JPG" width="350">
+
+
 
 
 ### SourceOne v3
