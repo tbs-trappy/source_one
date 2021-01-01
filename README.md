@@ -10,24 +10,22 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 
 ## Frame specifications
 * Wheelbase 5": 226mm
-* Wheelbase 6": 263mm
-* Wheelbase 7": 300mm
+* Wheelbase 7": 318mm
 * Top plate: 2mm
 * Bottom plate 3mm
 * Standoff height: 30mm
 * Arm thickness 5": 4mm
-* Arm thickness 6": 4mm
 * Arm thickness 7": 6mm
 * Stack mounting: 30.5 × 30.5mm & 20 x 20
-* Weight 5": 149.1g
+* Weight 5": 99.5g
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="800">
 
 ## Hardware
-* 20x M3x10 allen screw
-*  4x M3x14 allen screw
-*  8X OD 5mm M3 30mm standoff
-*  8x M3 press insert nut
+* 24x M3x10 allen screw
+* 4x M3x14 allen screw
+* 8X OD 5mm M3 30mm standoff
+* 6x M3 press insert nut
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_press_insert_nut.png" width="800">
 
@@ -66,17 +64,19 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 
 ## Compatibility
 
-| Part          |           v0.1|          v0.11|           v0.2|                     v3|
-| ------------- | ------------- | ------------- | ------------- | -------------         |
-| topplate      |fits only v0.1   |               |                       |fits all lower versions|
-| bottompate    |fits only v0.1   |               |fits all lower versions|fits only v3   |
-| arms          |                 |               |                       |fits all lower versions               |
-| centerplate   |fits only v0.1   |               |fits  v0.11 and v0.2   |fits only v3   |
-| camplates     |fits only v0.1   |               |                       |fits all lower versions|
-| battery pad   |no pad available |               |fits all lower versions|fits only v3   |
+| Part          |           v0.1|          v0.11|           v0.2|                     v3|                     v4|
+| ------------- | ------------- | ------------- | ------------- | -------------         | -------------         |
+| topplate      |fits only v0.1   |               |                       |fits all lower versions|             |
+| bottompate    |fits only v0.1   |               |fits all lower versions|fits only v3   |                     |     
+| arms          |                 |               |                       |fits all lower versions               |                |          
+| centerplate   |fits only v0.1   |               |fits  v0.11 and v0.2   |fits only v3   |                          |
+| camplates     |fits only v0.1   |               |                       |fits all lower versions|                  |        
+| battery pad   |no pad available |               |fits all lower versions|fits only v3   |                    |      
 
 
 ## Changelog
+### SourceOne v4
+
 
 ### SourceOne v3
 * new TopPlate, with longer Battery-strap slots - backwards compatible to V0.2
