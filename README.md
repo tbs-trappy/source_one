@@ -19,8 +19,6 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 * Stack mounting: 30.5 × 30.5mm & 20 x 20
 * Weight 5": 99.5g
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wheelbase.jpg" width="800">
-
 ## Hardware
 * 24x M3x10 allen screw
 * 4x M3x14 allen screw
@@ -52,10 +50,6 @@ Please use the tag "sourceone" when uploading files to thingiverse.com
 * [www.quadjunkie.co.nz](https://quadjunkie.co.nz/product-category/racing-freestyle-frames/tbs-source-one/)
 * [www.drone-fpv-racer.com](https://www.drone-fpv-racer.com/en/dfr-source-one-5-frame-v3-3579.html)
 * open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
-
-## Where to buy 6 inch arms
-* [www.carbon-posten.de](https://www.carbon-posten.de/epages/62822482.sf/sec0a7379183d/?ObjectPath=/Shops/62822482/Products/CP-TBS-SO-Arm6) 4mm and 5mm carbon
-
 
 ## Where to buy 3D printed parts
 Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
