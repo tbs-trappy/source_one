@@ -35,6 +35,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 Please use the tag "sourceone" when uploading files to thingiverse.com
 
 ## Where to buy
+* [cncmadness.com](https://cncmadness.com/) - They offer v4 with two types of arm thickness for 5" & 7"
 * [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
 * [www.racequadgear.de](https://www.racequadgear.de/TBS-SOURCE-ONE-5)
 * [www.n-factory.de](https://n-factory.de/TBS-SOURCE-ONE-5)
